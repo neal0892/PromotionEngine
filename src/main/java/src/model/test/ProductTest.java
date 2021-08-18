@@ -1,8 +1,6 @@
 package model.test;
 
 import model.Product;
-import org.junit.Assert;
-import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 
 import static org.junit.jupiter.api.Assertions.*;

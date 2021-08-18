@@ -54,7 +54,7 @@ class CartTest {
     void testTotalValue(){
         testCart.addProduct(a,1);
         testCart.addProduct(b,7);
-        Assertions.assertEquals(testCart.getCartTotal(),260);
+        Assertions.assertEquals(testCart.getCartTotal(),8);
 
     }
 
